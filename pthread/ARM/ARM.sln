@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ARM", "ARM\ARM.vcxproj", "{2AB06473-BA5D-4A67-B7E4-BD37318DC496}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1", "..\1\1.vcxproj", "{AA07B48E-52E7-4716-8F24-7C3060766795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AB06473-BA5D-4A67-B7E4-BD37318DC496}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2AB06473-BA5D-4A67-B7E4-BD37318DC496}.Debug|Win32.Build.0 = Debug|Win32
+		{2AB06473-BA5D-4A67-B7E4-BD37318DC496}.Release|Win32.ActiveCfg = Release|Win32
+		{2AB06473-BA5D-4A67-B7E4-BD37318DC496}.Release|Win32.Build.0 = Release|Win32
+		{AA07B48E-52E7-4716-8F24-7C3060766795}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA07B48E-52E7-4716-8F24-7C3060766795}.Debug|Win32.Build.0 = Debug|Win32
+		{AA07B48E-52E7-4716-8F24-7C3060766795}.Release|Win32.ActiveCfg = Release|Win32
+		{AA07B48E-52E7-4716-8F24-7C3060766795}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
